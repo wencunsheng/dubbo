@@ -19,7 +19,7 @@ package org.apache.dubbo.common.extension;
 import org.apache.dubbo.common.URL;
 
 /**
- * Has no SPI annotation
+ * Has no SPI annotation 测试上传
  */
 public interface NoSpiExt {
     @Adaptive
